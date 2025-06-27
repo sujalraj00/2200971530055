@@ -12,4 +12,4 @@ This is a backend microservice to shorten URLs, with custom shortcode support, e
 
 ## 📸 Screenshots
 
-1. [Screenshot](https://drive.google.com/drive/folders/1fD3N6zg-oIh3tyB_oDdPNRggDU_JFij6?usp=sharing)
+1. [Screenshot](https://drive.google.com/drive/folders/1lJwwe_nRX1OUxh6zoSC1ZUT5oew7zWkm?usp=drive_link)
