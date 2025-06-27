@@ -1,0 +1,18 @@
+/2200971530055/**/node_modules/
+
+/Backend/node_modules/
+/Logging Middleware/node_modules/
+
+/Backend/.env
+
+# Ignore logs
+**/logs
+*.log
+npm-debug.log*
+
+# Ignore OS-specific and IDE files
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
